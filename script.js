@@ -1,3 +1,11 @@
+/*********************************
+Correcteur: Yannick GOUGUIA
+
+Vous avez soumis l'exercice du jour 2 a la place du jour 1
+Merci de bien verifier vos repo github
+*********************************/
+
+
 let sentence =  "The day is not that bad, i like it";
 let wordNot = sentence.search("not");
 let wordBad = sentence.search("bad");
